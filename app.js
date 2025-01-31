@@ -5,6 +5,6 @@ const PORT = process.env.PORT || 3030;
 
 const app = express();
 
-app.use("/", indexRoute);
+app.use("/home", indexRoute);
 
 app.listen(PORT, console.log(`Your app is now running on ${PORT}`));
