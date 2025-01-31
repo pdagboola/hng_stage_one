@@ -44,7 +44,7 @@ Your app will run at `http://localhost:3030`.
 
 | Method | Endpoint | Description                  |
 | ------ | -------- | ---------------------------- |
-| GET    | `/home`  | Returns current date & email |
+| GET    | `/`      | Returns current date & email |
 
 ### **4️⃣ Sample Response**
 

@@ -1,5 +1,5 @@
 const returnDate = () => {
-  new Date().toISOString();
+  return new Date().toISOString();
 };
 
 module.exports = returnDate;
