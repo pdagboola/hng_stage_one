@@ -67,4 +67,4 @@ Your app will run at `http://localhost:3030`.
 
 This project is open-source under the MIT License.
 
-[text](https://hng.tech/hire/nodejs-developers)
+[hng](https://hng.tech/hire/nodejs-developers)
