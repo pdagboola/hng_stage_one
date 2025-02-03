@@ -4,12 +4,9 @@ const indexController = async (req, res) => {
   try {
     const date = returnDate();
     return res.status(200).json({
-      sucess: true,
-      data: {
-        email: "pdagboola@gmail.com",
-        current_datetime: `${date}`,
-        github_url: "https://github.com/pdagboola/hng_stage_one",
-      },
+      email: "pdagboola@gmail.com",
+      current_datetime: `${date}`,
+      github_url: "https://github.com/pdagboola/hng_stage_one",
     });
   } catch (err) {
     res.status(500).json({ sucess: false, message: "An error occurred." });

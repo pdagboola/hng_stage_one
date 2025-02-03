@@ -50,12 +50,9 @@ Your app will run at `http://localhost:3030`.
 
 ```json
 {
-  "success": true,
-  "data": {
-    "email": "pdagboola@gmail.com",
-    "current_datetime": "2025-01-31T12:00:00.000Z",
-    "github_url": "https://github.com/pdagboola/hng_stage_one"
-  }
+  "email": "pdagboola@gmail.com",
+  "current_datetime": "2025-01-31T12:00:00.000Z",
+  "github_url": "https://github.com/pdagboola/hng_stage_one"
 }
 ```
 
